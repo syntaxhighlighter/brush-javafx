@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-javafx
 
-javafx brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+JavaFX brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-javafx.svg)](https://travis-ci.org/alexgorbatchev/brush-javafx)
 

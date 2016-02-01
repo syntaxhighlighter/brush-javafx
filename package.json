@@ -1,5 +1,5 @@
 {
-  "name": "brush-javafx",
+  "name": "@alexgorbatchev/brush-javafx",
   "version": "4.0.0",
   "description": "javafx brush module for SyntaxHighlighter.",
   "keywords": [
